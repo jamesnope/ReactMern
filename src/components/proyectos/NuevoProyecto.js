@@ -21,6 +21,14 @@ const NuevoProyecto = () => {
     // Cuando el usuario envia el proyecto
     const onSubmitProyecto = e => {
         e.preventDefault();
+
+        // Validar el pproyecto
+
+        // Agregar al state
+
+        // Reiniciar el form
+
+        
     }
 
     return (
